@@ -1,3 +1,123 @@
+- date: 2017-11-17
+  time: 12:00
+  timezone: WET
+  amount: 10
+  currency: MSP
+  from: World
+  to: Dio Alma
+  reason: “Deprivatizing Diogo's finances.”
+- date: 2017-11-17
+  time: 12:00
+  timezone: WET
+  amount: 51.34207302
+  currency: NLC2
+  from: World
+  to: Dio Alma
+  reason: “Deprivatizing Diogo's finances.”
+- date: 2017-11-17
+  time: 12:00
+  timezone: WET
+  amount: 5.19903846
+  currency: DOT
+  from: World
+  to: Dio Alma
+  reason: “Deprivatizing Diogo's finances.”
+- date: 2017-11-17
+  time: 12:00
+  timezone: WET
+  amount: 35.00000087
+  currency: BCH
+  from: World
+  to: Dio Alma
+  reason: “Deprivatizing Diogo's finances.”
+- date: 2017-11-17
+  time: 12:00
+  timezone: WET
+  amount: 0.4583573
+  currency: NEO
+  from: World
+  to: Dio Alma
+  reason: “Deprivatizing Diogo's finances.”
+- date: 2017-11-17
+  time: 12:00
+  timezone: WET
+  amount: 2.00000067
+  currency: OMG
+  from: World
+  to: Dio Alma
+  reason: “Deprivatizing Diogo's finances.”
+- date: 2017-11-17
+  time: 12:00
+  timezone: WET
+  amount: 1
+  currency: SAN
+  from: World
+  to: Dio Alma
+  reason: “Deprivatizing Diogo's finances.”
+- date: 2017-11-17
+  time: 12:00
+  timezone: WET
+  amount: 0.02644122
+  currency: EOS
+  from: World
+  to: Dio Alma
+  reason: “Deprivatizing Diogo's finances.”
+- date: 2017-11-17
+  time: 12:00
+  timezone: WET
+  amount: 978.1253151
+  currency: XRP
+  from: Dio Alma
+  to: World
+  reason: “Deprivatizing Diogo's finances.”
+- date: 2017-11-17
+  time: 12:00
+  timezone: WET
+  amount: 0.00134407
+  currency: ZEC
+  from: World
+  to: Dio Alma
+  reason: “Deprivatizing Diogo's finances.”
+- date: 2017-11-17
+  time: 12:00
+  timezone: WET
+  amount: 0.5
+  currency: PLAY
+  from: Dio Alma
+  to: World
+  reason: “Deprivatizing Diogo's finances.”
+- date: 2017-11-17
+  time: 12:00
+  timezone: WET
+  amount: 17.962
+  currency: LTC
+  from: Dio Alma
+  to: World
+  reason: “Deprivatizing Diogo's finances.”
+- date: 2017-11-17
+  time: 12:00
+  timezone: WET
+  amount: 4739.10068
+  currency: ETH
+  from: World
+  to: Dio Alma
+  reason: “Deprivatizing Diogo's finances.”
+- date: 2017-11-17
+  time: 12:00
+  timezone: WET
+  amount: 203.9983277
+  currency: BTC
+  from: Dio Alma
+  to: World
+  reason: “Deprivatizing Diogo's finances.”
+- date: 2017-11-17
+  time: 12:00
+  timezone: WET
+  amount: 2174.91
+  currency: EUR
+  from: Dio Alma
+  to: World
+  reason: “Deprivatizing Diogo's finances.”
 - date: 2017-10-06
   time: n/a
   timezone: WEST
