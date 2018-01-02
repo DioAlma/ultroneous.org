@@ -11,10 +11,9 @@
     - "We bring up improvement suggestions regarding the Treasure Chest."
 - name: "Accepting payment in Credit."
   expectations:
-    - "We insist that the person as the accepted form of Credit set asside."
-    - "We chose a person responsible for holding the new account of Credit created to the entity in question."
-    - "The person responsible for holding the credit makes a transaction from World, to -Credit.holder-."
-    - "Any Credit amount received by the entitie in question is a transaction from -Credit.holder- to -recipient.acount-."
+    - "We insist that the entity as the accepted form of Credit set asside."
+    - "We document the Credit transaction in the Threasure Chest."
+    - "We make sure the entity is on Mautic."
 - name: "booking poeple"
   expectations:
     - "We concent on a time, place, duration and topic."
